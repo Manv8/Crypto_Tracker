@@ -12,5 +12,5 @@ createRoot(document.getElementById('root')).render(
     <App />
     </CoinContextProvider>
     </BrowserRouter>
-  </StrictMode>,
+  </StrictMode>
 )
